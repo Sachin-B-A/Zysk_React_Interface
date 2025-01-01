@@ -1,7 +1,7 @@
 
 # Zysk Technologies React Interface
 
-This repository contains the premium and responsive webpage developed as part of the assignment for the **Zysk Technologies** selection procedure. The interface was designed by referring to the provided Figma design, and additional changes and improvements have been added to enhance the overall quality and user experience.
+This repository contains the premium and responsive webpage developed as part of the assignment for the **Zysk Technologies** selection procedure. The interface was designed by referring to the provided Figma design, and additional changes and improvements have been added to enhance the overall quality and user experience
 
 ## Demo
 
